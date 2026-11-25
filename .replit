@@ -1,0 +1,12 @@
+entrypoint = "server.mjs"
+language = "javascript"
+run = "npm run dev"
+
+[deployment]
+deploymentTarget = "cloudrun"
+build = "npm run build"
+run = "npm start"
+
+[[ports]]
+localPort = 3000
+externalPort = 80

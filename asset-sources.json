@@ -1,0 +1,55 @@
+[
+  {
+    "file": "site/assets/company-logo.png",
+    "source": "https://www.turnkeyrecruitment.no/assets/Svartp%C3%A5HvitN%C3%B8kkel-removebg-preview_1763760866934-LjSWYITm.png",
+    "description": "Current company header logo"
+  },
+  {
+    "file": "site/assets/erlend.webp",
+    "source": "https://www.turnkeyrecruitment.no/assets/team-erlend-final-6IkzCbpW.png",
+    "description": "Current company team portrait",
+    "transformation": "WebP derivative sized for this homepage."
+  },
+  {
+    "file": "site/assets/ida.webp",
+    "source": "https://www.turnkeyrecruitment.no/assets/team-ida-final-Co6FI3NN.png",
+    "description": "Current company team portrait",
+    "transformation": "WebP derivative sized for this homepage."
+  },
+  {
+    "file": "site/assets/william.webp",
+    "source": "https://www.turnkeyrecruitment.no/assets/team-william-final-DbueGlZS.png",
+    "description": "Current company team portrait",
+    "transformation": "WebP derivative sized for this homepage."
+  },
+  {
+    "file": "site/assets/core-illustration.webp",
+    "source": "https://www.turnkeycore.no/assets/hero-kanban-CbiHkAba.png",
+    "description": "Current Core homepage candidate overview image",
+    "transformation": "WebP derivative sized for this homepage."
+  },
+  {
+    "file": "site/assets/arena-hero.webp",
+    "source": "https://turnkeyarena.no/hero-bg.png",
+    "description": "Current Arena hero background",
+    "transformation": "WebP derivative sized for this homepage."
+  },
+  {
+    "files": [
+      "site/assets/turnkey-share-nb-v1.jpg",
+      "site/assets/turnkey-share-en-v1.jpg"
+    ],
+    "source": "Turnkey approved company homepage design",
+    "description": "1200 by 630 JPEG cards using the existing company mark, approved typography and all three product names."
+  },
+  {
+    "files": [
+      "site/assets/favicon.png",
+      "site/assets/apple-touch-icon.png",
+      "site/assets/icon-192.png",
+      "site/assets/organization-logo.png"
+    ],
+    "source": "site/assets/company-logo.png",
+    "description": "Original company key cropped and fitted to a navy icon field."
+  }
+]

@@ -1,0 +1,22 @@
+# Retired company routes and language normalization
+/en /en/ 301
+/index.html / 301
+/en/index.html /en/ 301
+/get-started /#solutions 301
+/get-started/ /#solutions 301
+/investors /#contact 301
+/investors/ /#contact 301
+/philosophy /#about 301
+/philosophy/ /#about 301
+/services/consulting /#contact 301
+/services/consulting/ /#contact 301
+/services/flow https://www.turnkeycore.no/ 301
+/services/flow/ https://www.turnkeycore.no/ 301
+/services/media https://turnkeymedia.no/ 301
+/services/media/ https://turnkeymedia.no/ 301
+/services/portals https://www.turnkeycore.no/ 301
+/services/portals/ https://www.turnkeycore.no/ 301
+/services/public https://turnkeyarena.no/ 301
+/services/public/ https://turnkeyarena.no/ 301
+/services/verify https://www.turnkeycore.no/ 301
+/services/verify/ https://www.turnkeycore.no/ 301
